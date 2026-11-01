@@ -2,7 +2,7 @@ import GifCard from "./GifCard";
 import useImages from "../hooks/useImages";
 
 const GifGrid = ({ category }) => {
-//  HOOK CUSTOM
+  //  HOOK CUSTOM
   const {images, loading} = useImages({ category })
 
   return (

@@ -15,6 +15,3 @@ export const getGifs = async(category) => {
   })
   return gifsNuevas;
 }
-
-
-// 8hPhdpBd8Cu2gmLROO4MmLuS2ZSSGBKH
